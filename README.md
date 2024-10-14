@@ -1,35 +1,23 @@
-# Welcome to My GitHub Profile!
+# 💫 Hi, I am Ashwini!
+🔭 I’m currently working on  Computer Vision + GAN based projects.<br>👯 I’m looking to collaborate on Real time AI problems to solve.<br>🌱 I’m currently learning Generative AI, Computer Vision, Cameras<br>💬 Ask me about  AI in Automotive, Autonomous Cars.<br>⚡ Fun fact that I am funny.
 
-👋 Hi there! I'm an AI Software Engineer passionate about leveraging artificial intelligence and machine learning to solve real-world problems. Here, you'll find a collection of my projects, experiments, and contributions to the AI community.
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamashwinikolhe) 
 
-- 🔭 I’m currently working on Computer Visison + GAN based projects.
-- 🌱 I’m learning about Generative AI, Computer Vision, Cameras.
-- 👯 I’m looking to collaborate on Real time AI problems to solve.
-- 💬 Ask me about AI in Automotive, Autonomous Cars.
-- 📫 How to reach me: iamashwinikolhe@gmail.com.
-- ⚡ Fun fact: I am funny.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamashwinikolhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamashwinikolhe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamashwinikolhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Programming Languages:** Python, CPP
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, etc.
-- **Tools:** Jupyter Notebook, Git, Pycharm , Vs Code , etc.
-- **Other Skills:** Data Analysis, Computer Vision, Machine Learning, Deep Learning, GANs , etc.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iamashwinikolhe&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## How to Contribute
+---
+[![](https://visitcount.itsvg.in/api?id=iamashwinikolhe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I welcome contributions! If you’d like to contribute to any of my projects:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add YourFeature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
-## Follow Me
-
-Stay updated with my latest projects and insights:
-- [LinkedIn](https://www.linkedin.com/in/ashwini-k-04bb8ba0/)
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
