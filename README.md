@@ -5,11 +5,11 @@
 ## About Me
 
 - 🔭 I’m currently working on Computer Visison + GAN based projects.
-- 🌱 I’m learning about Generative AI.
-- 👯 I’m looking to collaborate on [Real time AI problems].
-- 💬 Ask me about [AI in Automotive, Autonomous Cars].
+- 🌱 I’m learning about Generative AI, Computer Vision, Cameras.
+- 👯 I’m looking to collaborate on Real time AI problems to solve.
+- 💬 Ask me about AI in Automotive, Autonomous Cars.
 - 📫 How to reach me: iamashwinikolhe@gmail.com.
-- ⚡ Fun fact: [I am funny].
+- ⚡ Fun fact: I am funny.
 
 ## Skills
 
